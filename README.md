@@ -1,5 +1,10 @@
 ## Ramos 🌾
-![Ramos' Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gu-Ramos&layout=compact&theme=tokyonight&hide_border=true)
+[![Ramos' Stats Dark](https://github-readme-stats.vercel.app/api?username=Gu-Ramos&theme=catppuccin_mocha&hide_border=true&show_icons=true#gh-dark-mode-only)](https://github.com/Gu-Ramos/github-readme-stats#gh-dark-mode-only)
+[![Ramos' Stats Light](https://github-readme-stats.vercel.app/api?username=Gu-Ramos&theme=catppuccin_latte&hide_border=true&show_icons=true#gh-light-mode-only)](https://github.com/Gu-Ramos/github-readme-stats#gh-light-mode-only)
+
+[![Ramos' Most Used Languages Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Gu-Ramos&size_weight=0.5&count_weight=0.5&exclude_repo=love2d-experiments&hide_border=true&layout=compact&theme=catppuccin_mocha)](https://github.com/Gu-Ramos/github-readme-stats#gh-dark-mode-only)
+[![Ramos' Most Used Languages Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Gu-Ramos&size_weight=0.5&count_weight=0.5&exclude_repo=love2d-experiments&hide_border=true&layout=compact&theme=catppuccin_latte)](https://github.com/Gu-Ramos/github-readme-stats#gh-light-mode-only)
+
 
 <!--
 **Gu-Ramos/Gu-Ramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
