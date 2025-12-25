@@ -1,9 +1,7 @@
 ## Ramos 🌾
-[![Ramos' Stats Dark](https://github-readme-stats.vercel.app/api?username=ramosdetrigo&theme=catppuccin_mocha&hide_border=true&show_icons=true#gh-dark-mode-only&update=7)](https://github.com/ramosdetrigo#gh-dark-mode-only)
-[![Ramos' Stats Light](https://github-readme-stats.vercel.app/api?username=ramosdetrigo&theme=catppuccin_latte&hide_border=true&show_icons=true#gh-light-mode-only&update=7)](https://github.com/ramosdetrigo#gh-light-mode-only)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ramosdetrigo&show_icons=true&theme=tokyonight)
 
-[![Ramos' Most Used Languages Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=ramosdetrigo&size_weight=0.5&count_weight=0.5&exclude_repo=love2d-experiments&hide_border=true&layout=compact&theme=catppuccin_mocha&update=7)](https://github.com/ramosdetrigo#gh-dark-mode-only)
-[![Ramos' Most Used Languages Light](https://github-readme-stats.vercel.app/api/top-langs/?username=ramosdetrigo&size_weight=0.5&count_weight=0.5&exclude_repo=love2d-experiments&hide_border=true&layout=compact&theme=catppuccin_latte&update=7)](https://github.com/ramosdetrigo#gh-light-mode-only)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ramosdetrigo&layout=compact&theme=tokyonight)
 
 
 <!--
