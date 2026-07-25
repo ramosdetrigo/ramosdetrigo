@@ -1,7 +1,6 @@
 ## Ramos 🌾
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ramosdetrigo&show_icons=true&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ramosdetrigo&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ramosdetrigo&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs/?username=ramosdetrigo&layout=compact&theme=tokyonight)
 
 
 <!--
